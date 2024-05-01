@@ -1,7 +1,6 @@
 # CSECON206_Spring2024
 
-## How to Choose a Good Title? 
-Explore effective titling strategies in our [guide](https://www.nature.com/articles/s41562-021-01152-2).
+## Assessing the Semantic Capabilities of Large Language Models in Collaborative AI Settings.
 
 ## Project Information
 - **Author**: Zhenshan Zhng, Majoring in Applied Mathemetics, Class of 2026, Duke Kunshan University
@@ -12,7 +11,7 @@ Explore effective titling strategies in our [guide](https://www.nature.com/artic
 
 ### Introduction to the GitHub Repository
 
-This repository includes course materials and my final project for the course. The `CSEcon` and `Advance_CSEcon` folders contain my solutions to problem sets 1 and 2, which reflect and summarize a week's learning. The remaining folders hold materials for the final project titled 'Assessing the Semantic Capabilities of Large Language Models in Collaborative AI Settings.
+This repository includes course materials and my final project for the course. The `CSEcon` and `Advance_CSEcon` folders contain my solutions to problem sets 1 and 2, which reflect and summarize a week's learning. The remaining folders hold materials for the final project titled 'Assessing the Semantic Capabilities of Large Language Models in Collaborative AI Settings.'
 ## Table of Contents
 
 [CSEcon](https://github.com/Rising-Stars-by-Sunshine/CSECON206_ZhenshanZhang/tree/main/CSEcon)
@@ -22,7 +21,7 @@ This repository includes course materials and my final project for the course. T
 [Proposal](https://github.com/Rising-Stars-by-Sunshine/CSECON206_ZhenshanZhang/tree/main/Proposal(New))
 
 ## More About the Author
-![Headshot](url-to-headshot-image)
+![Headshot](https://github.com/Alphawarheads/CS-Econ206/blob/main/Advance_CSEcon/assets/OIP-C.jpg)
 - **Self-Introduction**:
   -My interests lie in the application of machine learning methods to economics and finance. I have experience with large language models (LLMs) and multi-agent reinforcement learning (MARL), which I leverage to enhance and innovate within these fields.
 - **Final Reflections**: 
