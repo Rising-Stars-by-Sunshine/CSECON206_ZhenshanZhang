@@ -12,10 +12,14 @@ Explore effective titling strategies in our [guide](https://www.nature.com/artic
 
 ### Introduction to the GitHub Repository
 
-Please provide an introduction to the content of this GitHub repository, bearing in mind that external viewers may not be familiar with the terms PS1, PS2, and the Final Project as used in our class. It is essential to include enough background information to bring outsiders up to speed. Additionally, include a flowchart that clearly outlines the logical progression and the interconnections between these assignments for a clearer understanding of the course structure.
-
+This repository includes course materials and my final project for the course. The `CSEcon` and `Advance_CSEcon` folders contain my solutions to problem sets 1 and 2, which reflect and summarize a week's learning. The remaining folders hold materials for the final project titled 'Assessing the Semantic Capabilities of Large Language Models in Collaborative AI Settings.
 ## Table of Contents
-Could you provide a table of content with hyperlink to all the parts? 
+
+[CSEcon](https://github.com/Rising-Stars-by-Sunshine/CSECON206_ZhenshanZhang/tree/main/CSEcon)
+
+[Advanced_CSECON](https://github.com/Rising-Stars-by-Sunshine/CSECON206_ZhenshanZhang/tree/main/Advance_CSEcon)
+
+[Proposal](https://github.com/Rising-Stars-by-Sunshine/CSECON206_ZhenshanZhang/tree/main/Proposal(New))
 
 ## More About the Author
 ![Headshot](url-to-headshot-image)
