@@ -1,6 +1,6 @@
-[URL to my shared view overleaf ](https://www.overleaf.com/read/rkdrjbwrmjgn#120979)
+[overleaf](https://www.overleaf.com/read/rkdrjbwrmjgn#120979)
 
-![image](https://github.com/Rising-Stars-by-Sunshine/COMPSCI206_Jiahe_Liu/assets/124045985/a36a79c5-e9f2-4e0c-af3b-6cf458cf4e64)
+![image](https://github.com/Rising-Stars-by-Sunshine/CSECON206_ZhenshanZhang/blob/main/Proposal%20(New)/Latex/Assessing%20the%20Semantic%20Capabilities%20of%20Large%20Language%20Models%20in%20Collaborative%20AI%20Settings.png)
 
 # Summary: Assessing the Semantic Capabilities of Large Language Models in Collaborative AI Settings
 
